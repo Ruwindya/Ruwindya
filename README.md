@@ -1,4 +1,4 @@
-<h1>😄 Ruwindya Dilshan</h1>
+<h1>👨‍💻 Ruwindya Dilshan</h1>
 
 **`Computer Science Undergraduate | Passionate Programmer | Quick Learner`**
 
