@@ -32,6 +32,10 @@ I am an enthusiastic programmer building up my version of the digital world one 
 
 <details>
  <summary><h3>👨‍💻 Ruwindya's Coding Journey</h3></summary>
+ Learning to code is something interesting in many ways. During my classes of #programming #coding at the university I used to write "hello world" on the console. C, C++ and java were my first progamming languages.
+
+Along the way I became interested in doing my own projects to improve my skills which came with a lot of challenges syntax, runtime, logical and compilation errors. As beginner I had alot of challenges, to begin with what language or framework was I supposed to learn and what language was best suited for my task at hand. I tried a lot of languages at the start and got frustrated along the way and tried another language actually I got comfortable with python and javascript.
+ #
    
 
 <!--
